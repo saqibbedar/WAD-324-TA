@@ -1,6 +1,6 @@
 # WAD Session 
 
-# Topics
+# Session Topics 
 
 1. CLI (command line interface) vs GUI (Graphical user interface)
     - access machine using gui then cli
